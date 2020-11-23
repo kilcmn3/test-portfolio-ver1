@@ -48,12 +48,12 @@
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.8",
     "webpack": "^3.4.1",
-    "webpack-dev-server": "^2.5.1"
+    "webpack-dev-server": "^2.11.5"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "dotenv-webpack": "^1.5.4",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.1",
     "normalize.css": "^7.0.0",
     "scrollreveal": "^3.3.6"
   }
